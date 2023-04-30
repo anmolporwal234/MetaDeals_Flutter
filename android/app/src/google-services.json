@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551793358506",
+    "project_id": "meta-deals",
+    "storage_bucket": "meta-deals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551793358506:android:fc153673a05417be36c2d3",
+        "android_client_info": {
+          "package_name": "com.example.metadeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551793358506-tmuc7lf4ofpqgcp3jreecrjto11dbtgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPaTlWgqVuAfB3Qz-9Fa3eqqUR1quMcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551793358506-tmuc7lf4ofpqgcp3jreecrjto11dbtgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
